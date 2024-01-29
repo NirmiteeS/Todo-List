@@ -1,4 +1,4 @@
-# To-Do List Readme
+# To-Do List
 
 This readme provides an overview of the To-Do List web application, detailing its features, structure, and usage instructions.
 
@@ -23,7 +23,7 @@ The To-Do List is a simple web application built using HTML, CSS, and JavaScript
 
 - HTML: Provides the structure and layout of the web page.
 - CSS: Styles the HTML elements to enhance the visual appearance and user experience.
-- JavaScript: Implements the functionality of adding, editing, deleting, and marking tasks.
+- JavaScript: Implements the functionality of adding, editing and deletion
 
 ## Usage
 
